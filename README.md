@@ -1,31 +1,25 @@
-Iam José Bossle 👋
+### Olá sou o José Bossle
+<p>Autodidata em HTML  e CSS.</p><br/>
+<p>Especialista em engenharia de software</p><br/>
+<p>Atualmente cursando sistemas para internet na Universidade Estácio de Sá</p><br/>
 
-**Bossle-desenvolvimento-web/Bossle-desenvolvimento-web** 
+[[linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/josé-bossle-9bb19a237)
+[[gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](bossledesenvolvimentoweb@gmail.com) 
 
-### Hello! Iam José Bossle na Universidade Estácio de Sá
+
+![Bossle-desenvolvimento-webGitHub stats](https://github-readme-stats.vercel.app/api?username=Bossle-desenvolvimento-web&show_icons=true&theme=dracula)
 
 
-- 🔭 Autodidata em HTML e CSS
-- 🌱 Estudante Sistemas para internet 
-<div align="center">
-  <a href="https://github.com//Bossle-desenvolvimento-web">
-  <img height="180em" src="https://github.com/Bossle-desenvolvimento-web/imgs/blob/main/developer-01.jpg"/>
-  
+### Tecnologias que uso no meu dia a dia!
+<div style="display: inline_block"><br/>
+<img  alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+<img alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+<img alt="VScode" src="https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg">
+<img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+<img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> 
+
 </div>
-  <br>
-    
-  <img align="center" alt="Bossle-desenvolvimento-web" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Bossle-desenvolvimento-web-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Bossle-desenvolvimento-web-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Bossle-desenvolvimento-web-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   
-   <img align="center" alt="Bossle-desenvolvimento-web-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  <img align="center" alt="Bossle-desenvolvimento-web-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img align="center" alt="Bossle-desenvolvimento-web-Wp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
-
- 
-
-
-
   </div>
 
