@@ -3,8 +3,8 @@
 <p>Especialista em engenharia de software</p><br/>
 <p>Atualmente cursando sistemas para internet na Universidade Estácio de Sá</p><br/>
 
-[[linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/josé-bossle-9bb19a237)
-[[gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](bossledesenvolvimentoweb@gmail.com) 
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/josé-bossle-9bb19a237)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](bossledesenvolvimentoweb@gamil.com)
 
 
 ![Bossle-desenvolvimento-webGitHub stats](https://github-readme-stats.vercel.app/api?username=Bossle-desenvolvimento-web&show_icons=true&theme=dracula)
