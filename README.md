@@ -1,6 +1,6 @@
 Iam José Bossle 👋
 
-**Bossle-desenvolvimento-web/Bossle-desenvolvimento-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Bossle-desenvolvimento-web/Bossle-desenvolvimento-web** 
 
 ### Hello! Iam José Bossle na Universidade Estácio de Sá
 
@@ -18,7 +18,7 @@ Iam José Bossle 👋
   <img align="center" alt="Bossle-desenvolvimento-web-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Bossle-desenvolvimento-web-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Bossle-desenvolvimento-web-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="Bossle-desenvolvimento-web-figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+   
    <img align="center" alt="Bossle-desenvolvimento-web-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img align="center" alt="Bossle-desenvolvimento-web-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center" alt="Bossle-desenvolvimento-web-Wp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
