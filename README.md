@@ -9,10 +9,10 @@ Iam José Bossle 👋
 - 🌱 Estudante Sistemas para internet 
 <div align="center">
   <a href="https://github.com//Bossle-desenvolvimento-web">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=/Bossle-desenvolvimento-web&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d/Bossle-desenvolvimento-web&layout=compact&langs_count=7&theme=cobalt"/>
-</div>
+  <img height="180em" src="https://github.com/Bossle-desenvolvimento-web/imgs/blob/main/developer-01.jpg"/>
   
+</div>
+  <br>
     
   <img align="center" alt="Bossle-desenvolvimento-web" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Bossle-desenvolvimento-web-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
