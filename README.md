@@ -1,5 +1,5 @@
 ### Olá sou o José Bossle
-<p>Autodidata em HTML  e CSS.</p><br/>
+<p>Front end developer.</p><br/>
 <p>Especialista em engenharia de software pela UNIPLAC</p><br/>
 <p>Atualmente cursando sistemas para internet na Universidade Estácio de Sá</p><br/>
 
