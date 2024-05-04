@@ -1,9 +1,9 @@
 
-<p>Sou José, um desenvolvedor web experiente com talento para transformar ideias em realidades digitais cativantes. Com um olhar atento aos detalhes e uma paixão pela inovação, sou motivado a criar sites e aplicativos centrados no usuário que não apenas tenham uma aparência impressionante, mas também proporcionem experiências de usuário perfeitas.
+<p>I'm José, a seasoned web developer with a knack for transforming ideas into captivating digital realities. With a keen eye for detail and a passion for innovation, I'm driven to create user-centric websites and applications that not only look stunning but also deliver seamless user experiences.
 
-Ao longo dos meus cinco anos de experiência, aprimorei minhas habilidades em diversas tecnologias de desenvolvimento web, incluindo HTML5, CSS3, JavaScript, Node.js e React. Minha experiência se estende ao desenvolvimento front-end, garantindo que os sites sejam visualmente atraentes, interativos e responsivos em todos os dispositivos.
+Throughout my five years of experience, I've honed my skills in a diverse range of web development technologies, including HTML5, CSS3, JavaScript, Node.js, and React. My expertise extends to front-end development, ensuring that websites are visually appealing, interactive, and responsive across all devices.
 
-Eu gosto de sistemas de internet. Estou sempre aprendendo novas tecnologias e explorando abordagens inovadoras para ultrapassar os limites do desenvolvimento web.</p><br/
+I kike about internet systems. I'm always to learn new technologies and explore innovative approaches to push the boundaries of web development.</p><br/>
 
 
 
