@@ -20,7 +20,9 @@
 <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> 
 <img alt="Debiam" src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white">
-https://img.shields.io/debian/v/:packageName
+![npms.io (scoped package)](https://img.shields.io/npms-io/:type/:scope/:packageName)
+
+
 
 
 
