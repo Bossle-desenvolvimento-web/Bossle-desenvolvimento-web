@@ -1,6 +1,10 @@
-### Olá sou o José Bossle
-<p>Front end developer.</p><br/>
-<p>Internet systems</p><br/>
+
+<p>Sou José, um desenvolvedor web experiente com talento para transformar ideias em realidades digitais cativantes. Com um olhar atento aos detalhes e uma paixão pela inovação, sou motivado a criar sites e aplicativos centrados no usuário que não apenas tenham uma aparência impressionante, mas também proporcionem experiências de usuário perfeitas.
+
+Ao longo dos meus cinco anos de experiência, aprimorei minhas habilidades em diversas tecnologias de desenvolvimento web, incluindo HTML5, CSS3, JavaScript, Node.js e React. Minha experiência se estende ao desenvolvimento front-end, garantindo que os sites sejam visualmente atraentes, interativos e responsivos em todos os dispositivos.
+
+Eu gosto de sistemas de internet. Estou sempre aprendendo novas tecnologias e explorando abordagens inovadoras para ultrapassar os limites do desenvolvimento web.</p><br/
+
 
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-bossle-9bb19a237/style:target="_blank"/ )
