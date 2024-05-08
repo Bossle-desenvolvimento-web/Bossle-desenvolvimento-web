@@ -7,7 +7,7 @@ I kike about internet systems. I'm always to learn new technologies and explore 
 
 
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-bossle-9bb19a237/style: target="_blank"/ )
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-bossle-9bb19a237/style:target="_blank"/ )
 
 
 
